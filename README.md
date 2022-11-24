@@ -4,10 +4,11 @@
 
 可模拟当前wifi信息。
 
-企微主页，长按标题栏最右边按钮弹出设置。
+企微主页，长按标题栏最右边"+"按钮弹出设置。
 
 适配版本：4.0.16（19901）、4.0.19（20104）
 
-![1667057185952](https://user-images.githubusercontent.com/1235777/198840577-1b1b65bd-2a1b-48ea-aa12-94b4bce29774.png)
+![~PLGJ{Z19C7M~JLWMKQJXYH](https://user-images.githubusercontent.com/1235777/203724715-d0c01b99-4132-4c2b-a0a6-20b9ace79f12.png)
+
 
 
